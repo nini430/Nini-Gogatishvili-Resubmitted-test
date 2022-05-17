@@ -1,0 +1,21 @@
+body {
+  
+  font-family:"Raleway",sans-serif;
+  position:relative;
+  overflow-x:hidden;
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+
+}
+
+
+
+:root {
+    --mainBlack:#1D1F22;
+    --mainGreen:#5ECE7B;
+}
+
+
+
+
